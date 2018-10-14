@@ -3,7 +3,7 @@
 This project aims to perform certain `Pandas` operations on the given dataset and then serve the outputs of said operations through a flask API.
 
 It has the following parts:
-1. mass_spec_data.xlsx: the dataset
+1. mass_spec_data.xlsx - the dataset
 2. templates - folder containing the upload.html file where the file is uploaded
 3. uploaded_file - folder that contains all the uploaded files, only .xlsx and .csv files are premitted.
 4. pandasOperations.py - file with all the pandas logic
