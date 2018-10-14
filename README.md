@@ -15,8 +15,8 @@ Steps to run the application:
 3. click on submit query button to submit after selecting file. File name will be displayed to confirm upload. If file type is not permitted, page refreshes.
 4. after uploading, the answer.py file is automatically executed to perform and all the pandas operations and the resulting dataframes are saved as .csv files in the "uploaded_file" directory.
 5. then call any of the following api's to obtain the corresponding output:
-    a. localhost:5000/q1/PC
-    b. localhost:5000/q1/LPC
-    c. localhost:5000/q1/plasmalogen
-    d. localhost:5000/q2/data_new
-    e. localhost:5000/q3/sample_means
+    * localhost:5000/q1/PC
+    * localhost:5000/q1/LPC
+    * localhost:5000/q1/plasmalogen
+    * localhost:5000/q2/data_new
+    * localhost:5000/q3/sample_means
