@@ -20,3 +20,5 @@ Steps to run the application:
     * localhost:5000/q1/plasmalogen
     * localhost:5000/q2/data_new
     * localhost:5000/q3/sample_means
+
+The code was written in `Python` and the API was served using `Flask`.
